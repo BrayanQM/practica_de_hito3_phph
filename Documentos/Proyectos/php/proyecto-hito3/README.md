@@ -1,5 +1,7 @@
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="956" height="378" alt="imagen" src="https://github.com/user-attachments/assets/7dd2e03c-1df9-470d-8d31-3be185e8a163" />
+<img width="944" height="316" alt="imagen" src="https://github.com/user-attachments/assets/eafa230d-9de2-433c-9d6c-0f1be61cbf43" />
+
+
 # 🚀 Prácticas HITO 3 - Documentación Técnica
 
 ## 📁 Estructura del Proyecto
